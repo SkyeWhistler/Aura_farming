@@ -22,13 +22,6 @@
 - **Jinja2** – Template rendering
 - **Canvas API** – Monthly aura animation
 
----
-
-## Installation
-
-???
-
-
 
 ## How It Works
 When you write a journal entry, the app sends it to GPT-4 with a prompt to generate:
